@@ -1,2 +1,2 @@
-ùnode_moduiles/ù 
-"*.log" 
+node_modules/ 
+*.log 
